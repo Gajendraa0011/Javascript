@@ -1,0 +1,5 @@
+alert("enter the number")
+let a = prompt("enter a here")
+a = Number.parseInt(a)
+alert("your entered a of type " + (typeof a))
+document.write(a)
