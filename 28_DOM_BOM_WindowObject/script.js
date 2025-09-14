@@ -1,2 +1,8 @@
+// DOM
+console.log(window)
+console.log(document)
+console.log(document.body)
+document.body.style.background = "red"
 
-console.log("Hello Wolrd");
+// BOM
+location.href = "http://google.com"
